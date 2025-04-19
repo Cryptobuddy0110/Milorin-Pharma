@@ -27,14 +27,12 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 
 <table>
   <tr>
-    <td><img src="assets/image1.png" width="300"/></td>
-    <td><img src="assets/image2.png" width="300"/></td>
-    <td><img src="assets/image3.png" width="300"/></td>
+    <td><img src="/static/mobile.png" width="300"/></td>
+    <td><img src="/static/client.png" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/image4.png" width="300"/></td>
-    <td><img src="assets/image5.png" width="300"/></td>
-    <td><img src="assets/image6.png" width="300"/></td>
+    <td><img src="/static/clean.png" width="300"/></td>
+    <td><img src="/static/img.png" width="300"/></td>
   </tr>
 </table>
 
@@ -43,8 +41,6 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 ![Landing Page](/static/img2.png)
 
 
-**Mission Page** 
-![Dashboard](/static/img.png)
 
 ---
 
