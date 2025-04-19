@@ -39,11 +39,11 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 ## 📸 Visual Showcase
 
 **Landing Page**  
-![Landing Page](assets/landing-page.png)
+![Landing Page](/static/img2.png)
 
 
 **Mission Page** 
-![Dashboard](assets/dashboard.png)
+![Dashboard](/static/img.png)
 
 ---
 
