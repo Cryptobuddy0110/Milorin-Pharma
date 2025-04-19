@@ -34,6 +34,7 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
     <td><img src="/static/clean.png" width="300"/></td>
     <td><img src="/static/img.png" width="300"/></td>
   </tr>
+  <td><img src="/static/img.png" width="300"/></td>
 </table>
 
 
