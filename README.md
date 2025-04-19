@@ -22,6 +22,23 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 
 ## 📸 Visual Showcase
 
+
+## 🖼️ Project Gallery
+
+<table>
+  <tr>
+    <td><img src="assets/image1.png" width="300"/></td>
+    <td><img src="assets/image2.png" width="300"/></td>
+    <td><img src="assets/image3.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/image4.png" width="300"/></td>
+    <td><img src="assets/image5.png" width="300"/></td>
+    <td><img src="assets/image6.png" width="300"/></td>
+  </tr>
+</table>
+
+
 **Landing Page**  
 ![Landing Page](/static/img2.png)
 
