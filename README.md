@@ -23,7 +23,7 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 ## 📸 Visual Showcase
 
 
-## 🖼️ Project Gallery
+**## 🖼️ Project Gallery**
 
 <table>
   <tr>
@@ -36,8 +36,6 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
   </tr>
 </table>
 
-
-**Landing Page**  
 ![Landing Page](/static/img2.png)
 
 
