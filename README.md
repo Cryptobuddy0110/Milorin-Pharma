@@ -18,22 +18,6 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 - 🎞️ **Smooth Animations**  
   Seamless GSAP and CSS-based animations that bring every section to life.
 
-- 🤖 **Talk to Your Data**  
-  Use our built-in AI assistant to ask smart questions like:  
-  _“How many projects have we completed?”_ or _“Show me feedback from last week”._
-
-- 📈 **Real-time Analytics & Dashboards**  
-  Visual graphs and insights to help you stay on top of performance and user interaction.
-
-- 📋 **Editable Project Tracker**  
-  View, add, and update your project information easily in real time.
-
-- 📍 **Interactive Maps**  
-  See exactly where your customers are coming from with real-time location tracking.
-
-- 📝 **Customer Feedback Integration**  
-  Collect and analyze valuable client feedback to improve your services and UX.
-
 ---
 
 ## 📸 Visual Showcase
@@ -51,10 +35,7 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Animations:** GSAP, Lottie  
-- **Graphs:** Chart.js / Plotly  
-- **Maps:** Leaflet.js / Mapbox  
-- **AI Assistant:** OpenAI API (stored securely in `.env`)  
-- **Backend (optional):** Streamlit or Flask for real-time interaction
+
 
 ---
 
