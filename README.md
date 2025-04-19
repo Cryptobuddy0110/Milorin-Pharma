@@ -27,14 +27,13 @@ Welcome to **Miliron Pharma**, a visually stunning and intelligently designed an
 
 <table>
   <tr>
-    <td><img src="/static/mobile.png" width="300"/></td>
-    <td><img src="/static/client.png" width="300"/></td>
+    <td><img src="/static/mobile.png" width="500"/></td>
+    <td><img src="/static/client.png" width="500"/></td>
   </tr>
   <tr>
-    <td><img src="/static/clean.png" width="300"/></td>
-    <td><img src="/static/img.png" width="300"/></td>
+    <td><img src="/static/clean.png" width="500"/></td>
+    <td><img src="/static/img.png" width="500"/></td>
   </tr>
-  <td><img src="/static/img.png" width="300"/></td>
 </table>
 
 
